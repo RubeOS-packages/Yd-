@@ -1,4 +1,4 @@
-# Yd-
+# Yd-used terminal version recommended
 
 `python yd.py --web` for web version 
 
